@@ -11,7 +11,7 @@ Universitas: Universitas Gadjah Mada
 
 Asal       : Klaten, Jawa Tengah
 
-Email      : vmariska.feby.utami@mail.ugm.ac.id
+Email      : mariska.feby.utami@mail.ugm.ac.id
 
 
 
